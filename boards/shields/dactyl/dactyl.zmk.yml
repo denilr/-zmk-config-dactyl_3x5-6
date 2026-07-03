@@ -4,7 +4,7 @@ name: Dactyl
 type: shield
 url: https://github.com/denilr/-zmk-config-dactyl_3x5-6
 requires:
-  - pro_micro
+  - promicro_nrf52840
 exposes:
 features:
   - keys
