@@ -34,11 +34,12 @@
                 };
                 lower_layer {
                         display-name = "Lower Layer";
-
+						bindings = <>;
                 };
 
                 raise_layer {
                         display-name = "Raise Layer";
+						bindings = <>;
                 };
         };
 };
