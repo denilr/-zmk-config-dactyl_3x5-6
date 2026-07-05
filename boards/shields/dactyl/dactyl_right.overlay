@@ -10,7 +10,4 @@
     col-offset = <5>;
 };
 
-&studio_rpc_usb_uart {
-    status = "okay";
-};
 //&kscan0 {};
